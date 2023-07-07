@@ -1,10 +1,10 @@
 ## Arkadaşını işletme uygulaması.
-###  Arkadaşlarına yapabileceğin güzel bir şaka uygulaması yaptım. Uygulama çok basit ve üzerinde geliştirmelerin yapılması gerekiyor. Ben Firebase'den aldığım hosting ile yaptım sizde isterseniz repoyu indirdikten sonra kendi Firebase hesabınızı oluşturup kullanabilirsiniz.
+###  Arkadaşlarına yapabileceğin güzel bir şaka uygulamasıdır. Uygulama çok basit ve üzerinde geliştirmelerin yapılması gerekiyor. Firebase hosting kullanılması gerekiyor.
 ```
 // Repoyu indirirseniz ve çalışmazsa aşağıdaki komutu deneyebilirsiniz.
 npm install
 ```
-### Firebase dosyasını kendinize göre değiştirmeniz gerekiyor. 
+### Firebase dosyasına girip boş kısımları kendi projenize göre doldurmanız gerekiyor.
 
 ```
 
